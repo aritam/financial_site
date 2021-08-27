@@ -2,6 +2,8 @@
 /* Marisol A. Friday August 27 2021
 // Checking for change within integers 0 - 99
 // giveChange function counts the least numbers of quarters, dimes, nickels and pennies needed to give change. 
+// Thank you for your time today as well as viewing this file. While I'm not used to coding / speaking my code out loud it is something I will work on. 
+// I didn't ask for your method to solve this particular issue because I wanted to figure it out myself. Thanks again. 
   */
 
 
