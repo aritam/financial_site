@@ -4,7 +4,7 @@
 // giveChange function counts the least numbers of quarters, dimes, nickels and pennies needed to give change. 
 // Thank you for your time today as well as viewing this file. While I'm not used to coding / speaking my code out loud it is something I will work on. 
 // I didn't ask for your method to solve this particular issue because I wanted to figure it out myself. Thanks again. 
-  */
+*/
 
 
 
@@ -16,7 +16,7 @@ public class MyTestClass {
 	public static void main(String[] args) {
 	
 		
-		Scanner input = new Scanner(System.in);
+	    Scanner input = new Scanner(System.in);
 	    
 	    System.out.print("Enter amount of change: ");
 	    int num = input.nextInt();
@@ -31,10 +31,10 @@ public class MyTestClass {
 	    
 	   public static void giveChange (int num) {
 		   
-		    int quarters = 0;
-		    int dimes = 0;
-		    int nickels = 0;
-		    int pennies = 0;
+		int quarters = 0;
+		int dimes = 0;
+		int nickels = 0;
+		int pennies = 0;
 	    	
 	    	if(num == 0) {
 	    		System.out.println("Sorry you can't enter zero!");
